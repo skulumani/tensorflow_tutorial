@@ -1,0 +1,6 @@
+[submodule "tf_files/tensorflow-mnist-tutorial"]
+	path = tf_files/tensorflow-mnist-tutorial
+	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial
+[submodule "tensorflow-mnist-tutorial"]
+	path = tensorflow-mnist-tutorial
+	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial
