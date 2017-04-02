@@ -3,4 +3,4 @@
 	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial
 [submodule "tensorflow-mnist-tutorial"]
 	path = tensorflow-mnist-tutorial
-	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial
+	url = git@github.com:skulumani/tensorflow-mnist-tutorial.git
